@@ -1,0 +1,25 @@
+body{
+    background-image: url("The Paradoxical Nature of Diversity.jfif");
+    image-rendering:crisp-edges;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.whole{
+    background-color: rgb(99, 138, 125);
+    text-align: center;
+    border-radius: %;
+    margin-left:  10%;
+    margin-right:  10%;
+    margin-top:  10%;
+    margin-bottom:  10%;
+    font-size:160%;
+   opacity: 80%;
+}
+.personal{
+    text-align: center;
+    height: auto;
+}
+.label{
+    text-align: left;
+}
